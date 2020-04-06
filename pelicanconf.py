@@ -81,10 +81,6 @@ COPYRIGHT_NAME = 'Xugan Chen'
 COPYRIGHT_YEAR = '2018 - %d' % datetime.now().year
 
 
-
-STATIC_PATHS = ['images', 'extra']
-
-
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
