@@ -71,7 +71,7 @@ MENUITEMS = (
     ('About', '/hello.html'),
 )
 
-STATIC_PATHS = ['images', 'download', 'favicon.ico', 'CNAME', 'README.md']
+STATIC_PATHS = ['images', 'download', 'favicon.ico', 'CNAME', '../README.md']
 
 
 DEFAULT_PAGINATION = False
