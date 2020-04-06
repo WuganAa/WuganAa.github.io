@@ -5,7 +5,7 @@ from datetime import datetime
 
 cv_dir = Path("/Users/chenxg/Project/Homepage/my_cv/cv")
 home_dir = Path(
-    "/Users/chenxg/Project/Homepage/WuganAa.github.io/content/download")
+    "/Users/chenxg/Project/Homepage/WuganAa.github.io")
 
 cv_name = "xuganchen_cv.pdf"
 
@@ -17,7 +17,7 @@ if not cv_path.exists():
 print("\n" + "=" * 30 + "\n" + "=" * 30 + "\n" + "=" * 30)
 print("copy " + cv_name)
 print("=" * 30 + "\n" + "=" * 30 + "\n" + "=" * 30)
-shutil.copy(cv_path, home_dir / cv_name)
+shutil.copy(cv_path, home_dir / 'content/download' / cv_name)
 
 now = datetime.now().strftime("%Y%m%d %H:%M:%S")
 
@@ -26,6 +26,7 @@ print("make clean, generate, and github")
 print("=" * 30 + "\n" + "=" * 30 + "\n" + "=" * 30)
 os.system("make clean")
 os.system("make html")
+shutil.copy(home_dir / 'README.md', home_dir / 'output/README.md')
 os.system("make github")
 
 print("\n" + "=" * 30 + "\n" + "=" * 30 + "\n" + "=" * 30)
