@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %} &ndash; {{ _('Tags') }}{% endblock %}
+
+{% block content %}
+
+{% include "partial/topmenu.html" %}
+
+<article class="single">
+  <header>
+    <h1 id="tags">{{ _('Tags') }}</h1>
+  </header>
+  <div>
+    <ul class="list">
+      {%- for tag, articles in tags|sort %}
+        <h4>
+        <div class="tag-cloud">
+          <li><a href="{{ SITEURL }}/{{ tag.url }}" >{{ tag }} - {{ articles|count }}</a></li>
+        </div>
+        </h4>
+      {% endfor %}
+    </ul>
+  </div>
+</article>
+{% endblock %}

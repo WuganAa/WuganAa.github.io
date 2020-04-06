@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.index_top %}
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle ads-responsive"
+       data-ad-client="{{ GOOGLE_ADSENSE.ca_id }}"
+       data-ad-slot="{{ GOOGLE_ADSENSE.ads.index_top }}"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+{% endif %}
+
+{% for page in pages %}
+
+{% if page.homepage == "true" %}
+<article>
+  <header>
+    {% import 'partial/translations.html' as translations with context %}
+    {{ translations.translations_for(page) }}
+    {% if page.show_title == "true" %}
+      <h1 id="{{ page.slug }}">{{ page.title }}</h1>
+    {% endif %}
+  </header>
+  <div>
+    {{ page.content }}
+  </div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+{% include "partial/pagination.html" %}
+
+{% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.index_bottom %}
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle ads-responsive"
+       data-ad-client="{{ GOOGLE_ADSENSE.ca_id }}"
+       data-ad-slot="{{ GOOGLE_ADSENSE.ads.index_bottom }}"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+{% endif %}
+
+
+{% endblock %}
