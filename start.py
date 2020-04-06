@@ -34,5 +34,5 @@ print("=" * 30 + "\n" + "=" * 30 + "\n" + "=" * 30)
 os.system("git add .")
 os.system("git commit -m 'update at " + now + "'")
 os.system("git push -u origin source")
-os.system("git pull")
+os.system("git pull --all")
 
