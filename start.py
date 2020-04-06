@@ -26,7 +26,7 @@ print("make clean, generate, and github")
 print("=" * 30 + "\n" + "=" * 30 + "\n" + "=" * 30)
 os.system("make clean")
 os.system("make html")
-shutil.copy(home_dir / 'README.md', home_dir / 'output/README.md')
+# shutil.copy(home_dir / 'README.md', home_dir / 'output/README.md')
 os.system("git fetch --all")
 os.system("make github")
 
