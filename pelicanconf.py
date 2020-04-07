@@ -52,7 +52,7 @@ ARTICLE_SAVE_AS = 'articles/{slug}.html'
 # Blogroll
 LINKS = (
     ('About', '/'),
-    ('CurriculumVitae', '/download/xuganchen_cv.pdf'),
+    ('Curriculum-Vitae', '/download/xuganchen_cv.pdf'),
     ('Blog', '/category/blog.html'),
 )
 
