@@ -4,8 +4,7 @@ from pathlib2 import Path
 from datetime import datetime
 
 cv_dir = Path("/Users/chenxg/Project/Homepage/my_cv/cv")
-home_dir = Path(
-    "/Users/chenxg/Project/Homepage/WuganAa.github.io")
+home_dir = Path("/Users/chenxg/Project/Homepage/WuganAa.github.io")
 
 cv_name = "xuganchen_cv.pdf"
 
