@@ -1,10 +1,16 @@
+<!--
+ * @Author: Xugan Chen
+ * @Date: 2020-04-07 01:05:05
+ * @LastEditTime: 2020-07-17 16:42:44
+ * @LastEditors: Xugan Chen
+ * @Description: 
+ * @FilePath: /Homepage/WuganAa.github.io/content/pages/about.md
+--> 
 ---
 title: About
 show_title: false
 homepage: true
 ---
-
-
 
 
 
@@ -16,7 +22,7 @@ homepage: true
 <center><a href="/download/xuganchen_cv.pdf" target="_blank"  style="font-weight:bold;">Curriculum Vitae</a></center>
 <br></br> 
 
-I am a senior at <a href="http://www.zju.edu.cn"  style="font-weight:bold;" target="_blank">Zhejiang University</a>, with dual major in Mathematics and Finance.</p>
+I will work as Yale Economics / Tobin Center Pre-Doctoral Fellow at <a href="https://som.yale.edu"  style="font-weight:bold;" target="_blank">School of Management, Yale University</a> in August 2020. I received my BS in Mathematics and Applied Mathematics and BA in Economics from <a href="http://www.zju.edu.cn"  style="font-weight:bold;" target="_blank">Zhejiang University</a>.
 
 My research interests focus on the interdisciplinary fields of Finance, Mathematics and Computer Science, including innovation, big data and machine learning in Finance, unstructured data analysis, text mining and information extraction.</p>
 
