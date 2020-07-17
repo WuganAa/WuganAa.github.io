@@ -8,8 +8,10 @@ SITEURL = 'http://localhost:8000'
 SITENAME = 'Xᴜɢᴀɴ Cʜᴇɴ'
 SITETITLE = 'Xᴜɢᴀɴ Cʜᴇɴ'
 SITELOGO = '/images/myself.jpg'
-SITESUBTITLE = 'Mathematics and Finance, <br>School of Mathematical Sciences, <br>Chu Kochen Honors College, <br>Zhejiang University'
-SITEDESCRIPTION = 'Xugan Chen - Mathematics and Finance. '
+# SITESUBTITLE = 'Mathematics and Finance, <br>School of Mathematical Sciences, <br>Chu Kochen Honors College, <br>Zhejiang University'
+SITESUBTITLE = 'Tobin Pre-Doctoral Fellow <br> Yale School of Management'
+# SITEDESCRIPTION = 'Xugan Chen - Mathematics and Finance.'
+SITEDESCRIPTION = 'Xugan Chen - Yale SOM.'
 FAVICON = '/images/earth1.ico'
 
 
