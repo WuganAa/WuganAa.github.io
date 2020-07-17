@@ -1,17 +1,8 @@
-<!--
- * @Author: Xugan Chen
- * @Date: 2020-04-07 01:05:05
- * @LastEditTime: 2020-07-17 16:42:44
- * @LastEditors: Xugan Chen
- * @Description: 
- * @FilePath: /Homepage/WuganAa.github.io/content/pages/about.md
---> 
 ---
 title: About
 show_title: false
 homepage: true
 ---
-
 
 
 
