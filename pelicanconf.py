@@ -1,3 +1,11 @@
+'''
+@Author: Xugan Chen
+@Date: 2020-04-07 01:05:06
+@LastEditTime: 2020-07-23 10:26:44
+@LastEditors: Xugan Chen
+@Description: 
+@FilePath: /Homepage/WuganAa.github.io/pelicanconf.py
+'''
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
@@ -61,7 +69,8 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ('github', 'https://github.com/wuganaa'),
-    ('envelope', 'mailto:chenxg014@gmail.com'),
+    ('envelope', 'mailto:xugan.chen@yale.edu'),
+    # ('envelope', 'mailto:chenxg014@gmail.com'),
     ('linkedin', 'https://www.linkedin.com/in/xuganchen/'),
 )
 

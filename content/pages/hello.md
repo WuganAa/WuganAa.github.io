@@ -74,10 +74,10 @@ Anyway, everything can be included.
 
 然后如果你想找我玩的话，可以：
 
-- Email: [chenxg014@gmail.com](mailto:chenxg014@gmail.com)
+- Email: [xugan.chen@yale.edu](mailto:xugan.chen@yale.edu)
 
 ---
 
 If you want to contact me, you can:
 
-- Email: [chenxg014@gmail.com](mailto:chenxg014@gmail.com)
+- Email: [xugan.chen@yale.edu](mailto:xugan.chen@yale.edu)
