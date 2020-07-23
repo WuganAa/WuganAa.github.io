@@ -13,7 +13,7 @@ homepage: true
 <center><a href="/download/xuganchen_cv.pdf" target="_blank"  style="font-weight:bold;">Curriculum Vitae</a></center>
 <br></br> 
 
-I work as Yale Economics / Tobin Center Pre-Doctoral Fellow at <a href="https://som.yale.edu"  style="font-weight:bold;" target="_blank">Yale School of Management</a> starting from August 2020. I received my BS in Mathematics and Applied Mathematics and BA in Economics from <a href="http://www.zju.edu.cn"  style="font-weight:bold;" target="_blank">Zhejiang University</a>.
+I am a Yale Economics / Tobin Center Pre-Doctoral Fellow at <a href="https://som.yale.edu"  style="font-weight:bold;" target="_blank">Yale School of Management</a> starting from August 2020. I received my BS in Mathematics and Applied Mathematics and BA in Economics from <a href="http://www.zju.edu.cn"  style="font-weight:bold;" target="_blank">Zhejiang University</a>.
 
 My research interests focus on the interdisciplinary fields of Finance, Mathematics and Computer Science, including innovation, big data and machine learning in Finance, unstructured data analysis, text mining and information extraction.</p>
 
