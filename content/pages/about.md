@@ -43,7 +43,7 @@ My research interests are corporate Finance, innovation, entrepreneurial finance
     * *Derivatives and Risk Management, course project*
   
     
-    
+
 * <a href="/download/20190129MCM.pdf" target="_blank"  style="font-weight:bold;">Complex Network Based Opioid Spread Model</a>**, with Xindi Lin and Yufeng Hu, 2019**
     * *Mathematical Contest in Modeling,  2019*
 
