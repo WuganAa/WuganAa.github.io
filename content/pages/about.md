@@ -15,7 +15,7 @@ homepage: true
 
 I am a Yale Economics / Tobin Center Pre-Doctoral Fellow at <a href="https://som.yale.edu"  style="font-weight:bold;" target="_blank">Yale School of Management</a> starting from August 2020. I received my BS in Mathematics and Applied Mathematics and BA in Economics from <a href="http://www.zju.edu.cn"  style="font-weight:bold;" target="_blank">Zhejiang University</a>.
 
-My research interests are corporate Finance, innovation, entrepreneurial finance, big data, unstructured data analysis, and information extraction.
+My research interests are corporate finance, innovation, entrepreneurial finance, big data, unstructured data analysis, and information extraction.
 
 * <a href="mailto:xugan.chen@yale.edu" target="_blank"  style="font-weight:bold;">Email</a>: xugan.chen@yale.edu
 * <a href="https://github.com/wuganaa" target="_blank"  style="font-weight:bold;">Github</a>: https://github.com/wuganaa
