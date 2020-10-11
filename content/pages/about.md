@@ -17,10 +17,11 @@ I am a Yale Economics / Tobin Center Pre-Doctoral Fellow at <a href="https://som
 
 My research interests are corporate finance, innovation, entrepreneurial finance, big data, unstructured data analysis, and information extraction.
 
-* <a href="mailto:xugan.chen@yale.edu" target="_blank"  style="font-weight:bold;">Email</a>: xugan.chen@yale.edu
-* <a href="https://github.com/wuganaa" target="_blank"  style="font-weight:bold;">Github</a>: https://github.com/wuganaa
+<!-- * <a href="mailto:xugan.chen@yale.edu" target="_blank"  style="font-weight:bold;">Email</a>: xugan.chen@yale.edu
+* <a href="https://github.com/wuganaa" target="_blank"  style="font-weight:bold;">Github</a>: https://github.com/wuganaa -->
 
-
+* Email: <a href="mailto:xugan.chen@yale.edu" target="_blank"  style="font-weight:bold;">xugan.chen@yale.edu</a>
+* Github: <a href="https://github.com/wuganaa" target="_blank"  style="font-weight:bold;">https://github.com/wuganaa</a>
 
 
 
