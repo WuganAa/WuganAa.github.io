@@ -1,7 +1,7 @@
 '''
 @Author: Xugan Chen
 @Date: 2020-04-07 01:05:06
-@LastEditTime: 2020-07-23 10:26:44
+@LastEditTime: 2020-10-12 15:38:42
 @LastEditors: Xugan Chen
 @Description: 
 @FilePath: /Homepage/WuganAa.github.io/pelicanconf.py
@@ -11,10 +11,11 @@
 from __future__ import unicode_literals
 from datetime import datetime
 
-AUTHOR = 'Xᴜɢᴀɴ Cʜᴇɴ'
+# AUTHOR = 'Xᴜɢᴀɴ Cʜᴇɴ'
+AUTHOR = 'Xugan Chen'
 SITEURL = 'http://localhost:8000'
-SITENAME = 'Xᴜɢᴀɴ Cʜᴇɴ'
-SITETITLE = 'Xᴜɢᴀɴ Cʜᴇɴ'
+SITENAME = 'Xugan Chen'
+SITETITLE = 'Xugan Chen'
 SITELOGO = '/images/myself.jpg'
 # SITESUBTITLE = 'Mathematics and Finance, <br>School of Mathematical Sciences, <br>Chu Kochen Honors College, <br>Zhejiang University'
 SITESUBTITLE = 'Tobin Pre-Doctoral Fellow <br> Yale School of Management'

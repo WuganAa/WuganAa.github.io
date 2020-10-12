@@ -6,7 +6,9 @@ homepage: true
 
 
 
-## <center><span style="font-weight:bold;">Xᴜɢᴀɴ Cʜᴇɴ </span><span style="font-weight:bold;font-size:30px">(陈栩淦)</span></center>
+## <center><span style="font-weight:bold;">Xugan Chen </span><span style="font-weight:normal;font-size:30px">(陈栩淦)</span></center>
+<!-- Xᴜɢᴀɴ Cʜᴇɴ -->
+
 
 <center><img src="/images/myself.jpg" width="25%" height="25%"></img></center>
 <br></br> 
