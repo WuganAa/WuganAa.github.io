@@ -82,6 +82,6 @@ My research interests are corporate finance, innovation, entrepreneurial finance
 
 ## **More About Me**
 
-* **Computer:** Python, R, MATLAB, C++, SQL, Data Analysis and Visualization, Distributed Computing.
+* **Programming:** Python, R, MATLAB, C++, SQL, Data Analysis and Visualization, Distributed Computing.
 * **Other:** Adobe Photoshop; Adobe Indesign.
 * **Hobbies:** Reading, music, cycling, photographing, orienteer (school team member).
