@@ -44,26 +44,25 @@ My research interests are corporate finance, innovation, entrepreneurial finance
 
 
 
-* <a href="/download/20190627Options_report.pdf" target="_blank"  style="color:red;">Option Pricing and Deep Learning: Based on Long Short-Term Memory</a>, 2019
+* <a href="/download/c_optionml.pdf" target="_blank"  style="color:red;">Option Pricing and Deep Learning: Based on Long Short-Term Memory</a>, 2019
 
     * *Derivatives and Risk Management, course project*
   
+
+
+* <a href="/download/chcwzlsf_mulfactor.pdf" target="_blank"  style="color:red;">Multi-dimensional Selection Factor Model</a>, with Yufeng, Wencheng Chen, Jiayi Wang, Wutong Zhouxin, Chen Liu, Yinglu Shi and Yixuan Fang, 2018
+
+    * *Income Analytics and Models, group project report*
+    * [presentation slides](/download/chcwzlsf_mulfactor_slides.pdf), [code](https://github.com/WuganAa/FixIncome_Predicting_Bond_Excess_Return)
+
     
 
-* <a href="/download/20190129MCM.pdf" target="_blank"  style="color:red;">Complex Network Based Opioid Spread Model</a>, with Xindi Lin and Yufeng Hu, 2019
+* <a href="/download/clh_mcm_spread.pdf" target="_blank"  style="color:red;">Complex Network Based Opioid Spread Model</a>, with Xindi Lin and Yufeng Hu, 2019
 
     * *Mathematical Contest in Modeling,  2019*
 
 
-
-* <a href="/download/20181211FIreport.pdf" target="_blank"  style="color:red;">Multi-dimensional Selection Factor Model</a>, with Yufeng, Wencheng Chen, Jiayi Wang, Wutong Zhouxin, Chen Liu, Yinglu Shi and Yixuan Fang, 2018
-
-    * *Income Analytics and Models, group project report*
-    * [presentation slides](/download/20181211FIpre.pdf), [code](https://github.com/WuganAa/FixIncome_Predicting_Bond_Excess_Return)
-
-
-
-* <a href="/download/20180212MCM.pdf" target="_blank"  style="color:red;">Reflection and Transmission of Electromagnetic Waves on the Sea Surface</a>, with Xiaoyuan Zhang and Runjian Chen, 2018
+* <a href="/download/zcc_mcm_elec_wave.pdf" target="_blank"  style="color:red;">Reflection and Transmission of Electromagnetic Waves on the Sea Surface</a>, with Xiaoyuan Zhang and Runjian Chen, 2018
 
     * *Mathematical Contest in Modeling, Honorable Mention Award, 2018*
 
